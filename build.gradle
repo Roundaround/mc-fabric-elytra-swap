@@ -59,8 +59,6 @@ tasks.publish.dependsOn build
 publishing {
   publications {
     mavenJava(MavenPublication) {
-      from components.java
-
       artifactId project.archives_base_name
       version = project.mod_version + "+" + project.minecraft_version
 
