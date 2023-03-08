@@ -15,11 +15,6 @@
   "license": "MIT",
   "icon": "assets/elytraswap/icon.png",
   "environment": "*",
-  "entrypoints": {
-    "main": [
-      "me.roundaround.elytraswap.ElytraSwapMod"
-    ]
-  },
   "mixins": [
     "elytraswap.mixins.json"
   ],
