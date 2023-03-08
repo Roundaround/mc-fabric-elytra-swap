@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "me.roundaround.elytraswap.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "ArmorItemMixin",
+    "ElytraItemMixin"
+  ],
+  "client": [],
+  "server": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

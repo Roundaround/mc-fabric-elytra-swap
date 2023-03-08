@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "elytraswap",
+  "version": "${version}",
+  "name": "Elytra Swap",
+  "description": "Brings 1.20 elytra/chestplate swapping to earlier versions.",
+  "authors": [
+    "Roundaround"
+  ],
+  "contact": {
+    "homepage": "https://modrinth.com/mod/roundaround-elytra-swap",
+    "sources": "https://github.com/Roundaround/mc-fabric-elytra-swap",
+    "issues": "https://github.com/Roundaround/mc-fabric-elytra-swap/issues"
+  },
+  "license": "MIT",
+  "icon": "assets/elytraswap/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "me.roundaround.elytraswap.ElytraSwapMod"
+    ]
+  },
+  "mixins": [
+    "elytraswap.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.13.3",
+    "fabric": "*",
+    "minecraft": "1.18.2",
+    "java": ">=17"
+  }
+}
