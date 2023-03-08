@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/badge/MC-1.18.2-%23313e51?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Side-Server-%23313e51?style=for-the-badge"/>
 
-Brings 1.20 elytra/chestplate swapping to earlier versions.
+Brings 1.19.4 elytra/armor swapping to earlier versions.
 
 ## Download
 

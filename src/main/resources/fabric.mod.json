@@ -3,7 +3,7 @@
   "id": "elytraswap",
   "version": "${version}",
   "name": "Elytra Swap",
-  "description": "Brings 1.20 elytra/chestplate swapping to earlier versions.",
+  "description": "Brings 1.19.4 elytra/armor swapping to earlier versions.",
   "authors": [
     "Roundaround"
   ],
